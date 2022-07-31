@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Surya-mdg
+- 👋 Hi, I’m @surya-mdg
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Game Dev Projects
