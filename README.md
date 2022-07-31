@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surya-mdg
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Web Development
-- 👨‍💻 I'm working solo on Indie Games
+- 💻 I'm working solo on Indie Games
 - 💞️ I’m looking to collaborate on Game Dev Projects
 - 📫 How to reach me https://twitter.com/suryamdg
 
