@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @surya-mdg
-- 🌱 I’m currently learning about Web3
+- ✨ I have worked on projects related to web development, Web3 & game development
+- 🌱 I’m currently learning about neural networks
 - 💞️ I’m looking to collaborate on projects
 
 <!---
