@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @surya-mdg
-- ✨ I have worked on projects related to game development, web2 & web3
+- ✨ I make games using Unity, websites with MERN stack & web3 projects
 - 🌱 I’m currently learning about neural networks
 - 💞️ I’m looking to collaborate on projects
 
